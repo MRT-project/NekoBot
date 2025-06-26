@@ -1,0 +1,3 @@
+TOKEN = "BOT_TOKEN"
+BOT_NAME = "NekoBot"
+BOT_VERSION = "1.0.0"
